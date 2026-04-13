@@ -21,6 +21,7 @@ For the Shader to also work on your own Meshes, please follow these steps
  # Animated Brushstrokes
 Additionally I included a VFX Graph that adds brushtrokes to the object over time.
 The animated brushstrokes uses VFX Graph Particles that samples your Object Normal Texture and spawn Brushstrokes onto a RenderTexture. Finally this gets used by the Shadergraph.
+- Use the M_LiveObjectNormals
 - It is controllable through the "Stroke_VFX" gameobject
 - You can use a RGB Texture to indicate where Brush strokes shall be bigger/smaller and more/less.
 ![PaintGif](https://github.com/user-attachments/assets/9aca33f1-0108-4606-9a89-b445553be781)
