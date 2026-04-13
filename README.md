@@ -24,7 +24,7 @@ The animated brushstrokes uses VFX Graph Particles that samples your Object Norm
 - Use the M_LiveObjectNormals
 - It is controllable through the "Stroke_VFX" gameobject
 - You can use a RGB Texture to indicate where Brush strokes shall be bigger/smaller and more/less.
-![PaintGif](https://github.com/user-attachments/assets/9aca33f1-0108-4606-9a89-b445553be781)
+![PaintGif](https://github.com/user-attachments/assets/aa6ae1a5-26fa-4b64-9eb3-148a47d3da02)
 <img width="641" height="651" alt="image" src="https://github.com/user-attachments/assets/b20f928b-9450-4ef6-bbf8-5edc691b2236" />
 
 
